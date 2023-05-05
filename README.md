@@ -8,3 +8,5 @@ CarbonChain is built on the Ethereum blockchain, which provides a secure and tra
 
 
 ## Why CarbonChain?
+
+CarbonChain provides a convenient and accessible way for individuals to take action against climate change. By purchasing carbon offsets, users can offset their carbon footprint and support projects that reduce greenhouse gas emissions or remove carbon from the atmosphere.
