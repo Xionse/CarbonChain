@@ -11,3 +11,7 @@ CarbonChain is built on the Ethereum blockchain, which provides a secure and tra
 
 CarbonChain provides a convenient and accessible way for individuals to take action against climate change. By purchasing carbon offsets, users can offset their carbon footprint and support projects that reduce greenhouse gas emissions or remove carbon from the atmosphere.
 With CarbonChain, users can be confident that their transactions are secure and transparent, with a clear record of their carbon offsetting history. Our platform also provides valuable insights and resources to help users reduce their carbon footprint and live more sustainably.
+
+
+## Getting started
+To get started with CarbonChain, simply download our mobile app from the App Store or Google Play. Once you have created an account and linked your cryptocurrency wallet, you can start purchasing carbon offsets and contributing to the fight against climate change.
